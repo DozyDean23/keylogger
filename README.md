@@ -1,0 +1,1 @@
+This is a simple keylogger I built using Python and the pynput library in Visual Studio Code. It listens for keyboard input and logs all keystrokes to a text file (keyfile.txt). I created this as part of my cybersecurity learning journey to better understand how keyloggers work under the hood.
